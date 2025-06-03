@@ -19,7 +19,7 @@ A Python-based GUI tool that allows users to schedule Facebook Page posts automa
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/facebook-scheduler.git
+git clone https://github.com/your-username/facebook_scheduler.git
 cd facebook-scheduler
 pip install customtkinter
 pip install requests
